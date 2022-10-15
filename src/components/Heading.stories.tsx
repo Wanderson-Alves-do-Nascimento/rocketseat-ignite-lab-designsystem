@@ -6,7 +6,7 @@ export default {
   title: 'Components/Heading',
   component: Heading,
   args: {
-    children: 'Inconstitucionalíssimamente.',
+    children: 'Heading example.',
     size: 'md',
   },
   argTypes: {
